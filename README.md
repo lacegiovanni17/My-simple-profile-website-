@@ -1,10 +1,12 @@
 # My-simple-profile-website-
-👋 Hi, I’m Chidike Henry 
-😎 I’m a web developer 
-💻 This is my Simple profile website  made with HTML and CSS. 
-🌍 Website:  https://lacegiovanni17.github.io/My-simple-profile-website-/
-💞️ I’m looking to collaborate on JS projects 
-📫 How to reach me dk1online25@gmail.com
+## About
+* 👋 Hi, I’m Chidike Henry 
+* 😎 I’m a web developer 
+* 💻 This is my Simple profile website  made with HTML and CSS.
+* 🌍 Website:  https://lacegiovanni17.github.io/My-simple-profile-website-/
+* 🌍 Website:  https://chidike-website.netlify.app/
+* 💞️ I’m looking to collaborate on JS projects 
+* 📫 How to reach me chidike.henry@gmail.com
 
 ![My simple profile](https://user-images.githubusercontent.com/30509335/193796190-9985f384-518d-49f2-b077-e27927ae9919.PNG)
 
